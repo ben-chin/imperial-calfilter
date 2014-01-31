@@ -1,0 +1,5 @@
+Flask==0.10.1
+gunicorn>=18.0
+setuptools>=2.1
+pytz==2013.9
+icalendar==3.6
